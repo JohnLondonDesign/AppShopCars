@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562261039828",
+    "project_id": "authminitic22",
+    "storage_bucket": "authminitic22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562261039828:android:d823e4a39cc06fbecdf941",
+        "android_client_info": {
+          "package_name": "com.example.auth_login_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562261039828-da8l9uq75fel2ipugk8nnir5106ih4h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYNKOysSEWFvFCSU5KprRveVyUXT9Lcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562261039828-da8l9uq75fel2ipugk8nnir5106ih4h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
